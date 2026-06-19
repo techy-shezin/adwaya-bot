@@ -11,7 +11,7 @@ export const botConfig = {
   // - "invisible" = appears offline
   presence: {
     // Current online state shown on Discord.
-    status: "online",
+    status: "idle",
 
     // Activity lines shown under the bot name.
     // `type` number mapping from Discord:
@@ -81,7 +81,7 @@ export const botConfig = {
     deleteApprovedAfter: 30,
 
     // Role IDs allowed to manage applications.
-    managerRoles: ["750231043180724274","556874596800790528"], // Will be populated from environment or database
+    managerRoles: ["750231043180724274","556874596800790528","1517333283560488971","1517350573299597404","1517350262937751612"], // Will be populated from environment or database
   },
 
   // =========================
@@ -204,10 +204,10 @@ export const botConfig = {
   // =========================
   tickets: {
     // Category ID where new tickets are created (null = no forced category).
-    defaultCategory: null,
+    defaultCategory: "1517547447256092674",
 
     // Role IDs allowed to manage/support tickets.
-    supportRoles: [],
+    supportRoles: ["1517350262937751612","1517350573299597404","1517333283560488971"],
 
     // Priority options users/staff can assign.
     priorities: {
@@ -245,7 +245,7 @@ export const botConfig = {
     archiveCategory: null,
 
     // Channel ID where ticket logs are sent.
-    logChannel: null,
+    logChannel: "1517547257602379877",
   },
 
   // =========================
