@@ -81,7 +81,7 @@ export const botConfig = {
     deleteApprovedAfter: 30,
 
     // Role IDs allowed to manage applications.
-    managerRoles: [], // Will be populated from environment or database
+    managerRoles: [@shezin6242], // Will be populated from environment or database
   },
 
   // =========================
@@ -281,7 +281,7 @@ export const botConfig = {
     defaultRole: null,
 
     // Channel ID where birthday announcements are posted.
-    announcementChannel: #𝒶𝓃𝓃ℴ𝓊𝓃𝒸ℯ𝓂ℯ𝓃𝓉𝓈,
+    announcementChannel: 𝒶𝓃𝓃ℴ𝓊𝓃𝒸ℯ𝓂ℯ𝓃𝓉𝓈,
 
     // Timezone used to calculate birthday dates.
     timezone: "UTC",
