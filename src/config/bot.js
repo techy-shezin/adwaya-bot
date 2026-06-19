@@ -371,6 +371,11 @@ export const botConfig = {
     defaultWelcomeChannel: "1514685863580405811",
     // Channel ID for goodbye messages.
     defaultGoodbyeChannel: null,
+      // Welcome banner image
+    banner: {
+      enabled: true,
+      imageUrl: process.env.WELCOME_BANNER_URL || null,
+    },
   },
 
   // =========================
