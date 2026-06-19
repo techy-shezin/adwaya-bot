@@ -372,10 +372,6 @@ export const botConfig = {
     // Channel ID for goodbye messages.
     defaultGoodbyeChannel: null,
       // Welcome banner image
-    banner: {
-      enabled: true,
-      imageUrl: https://plain-apac-prod-public.komododecks.com/202606/19/nFdAW6fahSvIxwOmqNEF/image.jpg || null,
-    },
   },
 
   // =========================
