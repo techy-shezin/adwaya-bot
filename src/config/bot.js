@@ -281,7 +281,7 @@ export const botConfig = {
     defaultRole: null,
 
     // Channel ID where birthday announcements are posted.
-    announcementChannel: null,
+    announcementChannel: #𝒶𝓃𝓃ℴ𝓊𝓃𝒸ℯ𝓂ℯ𝓃𝓉𝓈,
 
     // Timezone used to calculate birthday dates.
     timezone: "UTC",
@@ -368,7 +368,7 @@ export const botConfig = {
     defaultGoodbyeMessage:
       "{user} has left the server. We now have {memberCount} members.",
     // Channel ID for welcome messages.
-    defaultWelcomeChannel: null,
+    defaultWelcomeChannel: 𝓌ℯ𝓁𝒸ℴ𝓂ℯ,
     // Channel ID for goodbye messages.
     defaultGoodbyeChannel: null,
   },
