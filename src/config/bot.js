@@ -81,7 +81,7 @@ export const botConfig = {
     deleteApprovedAfter: 30,
 
     // Role IDs allowed to manage applications.
-    managerRoles: [@shezin6242], // Will be populated from environment or database
+    managerRoles: [shezin6242], // Will be populated from environment or database
   },
 
   // =========================
