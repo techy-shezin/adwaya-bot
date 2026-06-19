@@ -81,7 +81,7 @@ export const botConfig = {
     deleteApprovedAfter: 30,
 
     // Role IDs allowed to manage applications.
-    managerRoles: [shezin6242], // Will be populated from environment or database
+    managerRoles: ["750231043180724274","556874596800790528"], // Will be populated from environment or database
   },
 
   // =========================
@@ -281,7 +281,7 @@ export const botConfig = {
     defaultRole: null,
 
     // Channel ID where birthday announcements are posted.
-    announcementChannel: 𝒶𝓃𝓃ℴ𝓊𝓃𝒸ℯ𝓂ℯ𝓃𝓉𝓈,
+    announcementChannel: "1514685863580405812",
 
     // Timezone used to calculate birthday dates.
     timezone: "UTC",
@@ -368,7 +368,7 @@ export const botConfig = {
     defaultGoodbyeMessage:
       "{user} has left the server. We now have {memberCount} members.",
     // Channel ID for welcome messages.
-    defaultWelcomeChannel: 𝓌ℯ𝓁𝒸ℴ𝓂ℯ,
+    defaultWelcomeChannel: "1514685863580405811",
     // Channel ID for goodbye messages.
     defaultGoodbyeChannel: null,
   },
