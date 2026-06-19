@@ -374,7 +374,7 @@ export const botConfig = {
       // Welcome banner image
     banner: {
       enabled: true,
-      imageUrl: process.env.WELCOME_BANNER_URL || null,
+      imageUrl: https://plain-apac-prod-public.komododecks.com/202606/19/nFdAW6fahSvIxwOmqNEF/image.jpg || null,
     },
   },
 
