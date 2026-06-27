@@ -372,7 +372,7 @@ export const botConfig = {
     // Channel ID for goodbye messages.
     defaultGoodbyeChannel: null,
     // Banner image URL
-    banner: "https://drive.google.com/file/d/1fUfHPe-mcT_SNRxjcpGYi0fGoWNk1It-/view?usp=drive_link"
+    banner: "image.jpg"
   },
 
   // =========================
